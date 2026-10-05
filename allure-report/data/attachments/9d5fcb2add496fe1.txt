@@ -1,0 +1,2 @@
+Transferring funds FROM account: 13344 TO account: 13788
+Funds transferred successfully!

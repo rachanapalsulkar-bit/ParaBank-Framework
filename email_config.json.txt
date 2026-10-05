@@ -1,0 +1,5 @@
+{
+    "REPORT_EMAIL_USERNAME": "rachtestqa@gmail.com",
+    "REPORT_EMAIL_APP_PASSWORD": "jimg jvdv gnxq copb",
+    "REPORT_EMAIL_TO": "rachtestqa@gmail.com"
+}

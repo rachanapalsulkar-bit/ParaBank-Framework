@@ -1,0 +1,4 @@
+Initial Account: 12345
+New Account Created: 40872
+Transferring funds FROM account: 13233 TO account: 40872
+Funds transferred successfully!
